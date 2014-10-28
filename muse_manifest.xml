@@ -1,4 +1,4 @@
-<manifest alg="2" build="569" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1414122347609">
+<manifest alg="2" build="569" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1414506642360">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
     <file name="index.css" crc="504974490" ref="index"/>
@@ -27,5 +27,5 @@
     <file name="screenshot3.jpg" crc="3795292134" ref="index"/>
     <file name="boullevardcreatives-logo-white.png" crc="3908424444" ref="index"/>
   </folder>
-  <file name="index.html" crc="3967901066" mt="1414122050058" redirect="true"/>
+  <file name="index.html" crc="65680051" mt="1414506635110" redirect="true"/>
 </manifest>
