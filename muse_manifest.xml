@@ -1,4 +1,4 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1414682766288">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416521586767">
   <folder name="css">
     <file name="site_global.css" crc="365011649"/>
     <file name="index.css" crc="275650052" ref="index"/>
@@ -24,8 +24,8 @@
     <file name="en_app_rgb_wo_60.png" crc="4068538009" ref="index"/>
     <file name="pasted svg 193x200.svg" crc="179592450" ref="index"/>
     <file name="pasted svg 193x200_poster_.png" crc="4080371189" ref="index"/>
-    <file name="screenshot3.jpg" crc="4218834647" ref="index"/>
+    <file name="screenshot3.jpg" crc="306746223" ref="index"/>
     <file name="boullevardcreatives-logo-white.png" crc="3908424444" ref="index"/>
   </folder>
-  <file name="index.html" crc="235438792" mt="1414682759314" redirect="true"/>
+  <file name="index.html" crc="3995298718" mt="1416521470595" redirect="true"/>
 </manifest>
