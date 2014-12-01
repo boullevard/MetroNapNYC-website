@@ -1,6 +1,6 @@
-<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1416929335546">
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1417473448164">
   <folder name="css">
-    <file name="site_global.css" crc="3977984863"/>
+    <file name="site_global.css" crc="365011649"/>
     <file name="index.css" crc="275650052" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -10,7 +10,7 @@
     <file name="jquery.watch.js" crc="4144919381" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u81-4.png" crc="313886373" ref="index"/>
+    <file name="u81-4.png" crc="4070971876" ref="index"/>
     <file name="screenshot1.jpg" crc="291832430" ref="index"/>
     <file name="screenshot2.jpg" crc="3758526758" ref="index"/>
     <file name="pasted svg 88x96.svg" crc="3787769682" ref="index"/>
@@ -28,5 +28,5 @@
     <file name="boullevardcreatives-logo-white.png" crc="3908424444" ref="index"/>
     <file name="favicon.ico" crc="3983179379" ref="index"/>
   </folder>
-  <file name="index.html" crc="418479439" mt="1416929325737" redirect="true"/>
+  <file name="index.html" crc="3877424579" mt="1417473432338" redirect="true"/>
 </manifest>
